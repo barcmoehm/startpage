@@ -1,3 +1,4 @@
 # Startpage
-personalized browser start page
+personalized browser start page with some links
+
 // TODO responsive
